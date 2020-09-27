@@ -1,0 +1,11 @@
+.name_of_objects {
+   color: purple; 
+}
+body {
+    background-image: linear-gradient(to right top, #ffd5cd, #efbbcf, #c3aed6, #8675a9);
+}
+#camera {
+    border: 2px dashed purple;
+    width: 350px;
+    height: 300px;
+}
